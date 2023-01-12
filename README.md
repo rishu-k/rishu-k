@@ -18,10 +18,8 @@
   - [Hacking](http://www.hackthebox.eu/badge/image/16311)
   - Web & Mobile App, DB, Server Admin, Blockchain, 
   - I like doing my own things
-  - Adobe PhotoShop
-  - Adobe Lightroom
-  - Some Git commands
-  - Project Management
+  - Adobe PhotoShop, Adobe Lightroom
+  - Project Management, Some Git commands
 - ✉️ ​ ​Reach me at rishusnehansh@gmail.com
 <!-- - 🔗  ​ ​Or more at [www.rishusnehansh.com](https://www.rishusnehansh.com) -->
 
@@ -42,6 +40,6 @@
 <a href="https://www.hackthebox.eu/profile/16311"><img height="58" src="http://www.hackthebox.eu/badge/image/16311" alt="Hack The Box" title="Hack The Box"></a>
 
 <!-- START OF DYNAMIC CONTENT -->
-Last update: Thu Jan 01 11:01:05 UTC 2023
+Last update: Sun Jan 01 11:01:05 UTC 2023
 <!-- END OF DYNAMIC CONTENT -->
 <!-- END OF README -->
