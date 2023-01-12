@@ -4,10 +4,24 @@
 
 <a href="https://github.com/rishu-k"><img width="55%" align="right" alt="Github Artwork" src="https://raw.githubusercontent.com/rishu-k/rishu-k/master/assets/git-header.svg"/></a>
 
-**About**
+<!-- <h4>I like doing my own things.</h4> -->
 
-- 💻 ​ ​Languages: `.js` `.java` `.py` `.sh` `.swift` `.go` `.r`
-- 👨‍💻 ​ ​Skills: Web & Mobile App, DB, Server Admin, Blockchain, [Hacking](http://www.hackthebox.eu/badge/image/16311)
+**About**
+<!-- 
+- Known languages:
+  - 🇷🇴 Hindi
+  - 🇬🇧 English
+ -->
+- 💻 ​ ​Languages:
+  -  `.js` `.java` `.py` `.sh` `.swift` `.go` `.r`
+- 👨‍💻 ​ ​Skills: 
+  - [Hacking](http://www.hackthebox.eu/badge/image/16311)
+  - Web & Mobile App, DB, Server Admin, Blockchain, 
+  - I like doing my own things
+  - Adobe PhotoShop
+  - Adobe Lightroom
+  - Some Git commands
+  - Project Management
 - ✉️ ​ ​Reach me at rishusnehansh@gmail.com
 <!-- - 🔗  ​ ​Or more at [www.rishusnehansh.com](https://www.rishusnehansh.com) -->
 
