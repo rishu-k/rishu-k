@@ -1,3 +1,4 @@
+<!-- START OF README -->
 ### Hi there👋, I’m Rishu(@rishu-k)
 ---
 
@@ -11,18 +12,19 @@
 <!-- - 🔗  ​ ​Or more at [www.rishusnehansh.com](https://www.rishusnehansh.com) -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishu-k&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rish-k&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rish-k&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rish-k&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rish-k&theme=github_dark&utcOffset=3)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishu-k&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishu-k&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishu-k&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rishu-k&theme=github_dark&utcOffset=3)
 
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1c1c1c?style=for-the-badge&logo=twitter)](https://twitter.com/rish-k)
+[![Twitter](https://img.shields.io/badge/Instagram-Follow-1c1c1c?style=for-the-badge&logo=instagram)](https://instagram.com/igx_chauhan)
 ![GitHub](https://img.shields.io/github/followers/rish-k?color=1c1c1c&label=follow&logo=github&style=for-the-badge)
 [![Website](https://img.shields.io/badge/Portfolio-Visit-1c1c1c?style=for-the-badge)](https://rishu-k.github.io/Links/)
 
 ---
 
 **Badges**
+
 <a href="https://www.hackthebox.eu/profile/16311"><img height="58" src="http://www.hackthebox.eu/badge/image/16311" alt="Hack The Box" title="Hack The Box"></a>
 
 <!-- START OF DYNAMIC CONTENT -->
